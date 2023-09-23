@@ -21,8 +21,8 @@ npm run dev
 The app will be running at [http://localhost:5173](http://localhost:5173).
 
 ## Usage
-*To add an item to your shopping list, enter the name of the item and quantity into the form and click the "Tambah" button.
-*To delete an item from your shopping list, click the "×" button next to the item.
-*To check off an item from your shopping list, click the checkbox next to the item.
-*To sort the list, select the desired sort order from the dropdown menu.
-*To view a summary of the total number of items and checked items in your list, look at the footer of the page.
+* To add an item to your shopping list, enter the name of the item and quantity into the form and click the "Tambah" button.
+* To delete an item from your shopping list, click the "×" button next to the item.
+* To check off an item from your shopping list, click the checkbox next to the item.
+* To sort the list, select the desired sort order from the dropdown menu.
+* To view a summary of the total number of items and checked items in your list, look at the footer of the page.
